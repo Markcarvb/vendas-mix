@@ -1,0 +1,11 @@
+produto mais vendido
+
+quantidade de pedidos /cartao
+
+faturamento por mes
+
+faturamento total /cartao
+
+faturamento por estado
+
+entregas em atraso/prazo
