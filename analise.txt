@@ -1,11 +1,18 @@
-produto mais vendido
+produto mais vendido V
 
-quantidade de pedidos /cartao
+quantidade de pedidos /cartao V
 
-faturamento por mes
+faturamento por mes V
 
-faturamento total /cartao
+faturamento total /cartao V
 
-faturamento por estado
+faturamento por estado filtro V
 
-entregas em atraso/prazo
+entregas em atraso/prazo V
+
+Vendas unicas V
+
+Custo do frete V
+
+Pedidos por mes V
+
